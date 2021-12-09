@@ -216,7 +216,7 @@ while True:
     extra_charge_pad = f'{extra_charge_str:>10}'
     extra_charge_hst_str = f'${extra_charge_hst:,.2f}'
     extra_charge_hst_pad = f'{extra_charge_hst_str:>10}'
-    extra_charge_total_str = f'${extra_charge_total,.2f}'
+    extra_charge_total_str = f'${extra_charge_total:,.2f}'
     extra_charge_total_pad = f'{extra_charge_total_str:>10}'
 
     subtotal_str = f'${subtotal:,.2f}'
